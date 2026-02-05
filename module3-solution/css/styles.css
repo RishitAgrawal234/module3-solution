@@ -1,0 +1,51 @@
+/* GLOBAL STYLES */
+body {
+    font-size: 16px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/* NAVBAR STYLES */
+.navbar-default {
+    background-color: #f8f8f8;
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #557c3e !important;
+}
+
+/* MOBILE MENU STYLING */
+
+.navbar-nav {
+    margin: 0;
+    background-color: #ffeeb3;
+}
+
+.navbar-nav li a {
+    color: #000 !important;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Hover effect for mobile menu items */
+.navbar-nav li a:hover {
+    background-color: #eee;
+}
+
+/* MAIN CONTENT STYLES */
+h1 {
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+/* The tall section styling */
+#main-content {
+    background-color: #e3e3e3;
+    border: 1px solid #ccc;
+    padding: 20px;
+    height: 1000px;
+    margin-bottom: 20px;
+}
